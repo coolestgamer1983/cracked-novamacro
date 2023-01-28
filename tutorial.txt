@@ -1,5 +1,0 @@
-Unzip the zip file (you might have to turn of your anti virus becouase windows does not like it whene a program can move your mouse)
-Put script on your desktop
-run the setup.exe wait for it to start log in just put in a random name and password 
-after that a screen wil pop up if you click on the button you will auto run notepad 
-and it will start the script

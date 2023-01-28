@@ -2,3 +2,4 @@ Welcome to our Novamacro rust script cracked version, due to the nature of explo
 Please extract the setup.exe file to your desktop before running to ensure smooth runtime.
 If there's any questions pls dm my discord: Alice (baptiste here)#4406
 
+check video for proof: https://youtu.be/cBTRVgBYkgA
